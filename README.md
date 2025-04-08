@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsnlo&show_icons=true&locale=en&layout=compact" alt="danielsnlo" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danielsnlo&show_icons=true&locale=en" alt="danielsnlo" /></p>
